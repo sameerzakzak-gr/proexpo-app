@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "417146337888",
+    "project_id": "pro-expo-ems-db",
+    "storage_bucket": "pro-expo-ems-db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:417146337888:android:6ff470c9c63869392b6105",
+        "android_client_info": {
+          "package_name": "com.proexpo.proexpo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "417146337888-vj1f8rlh7au0hj73a8gumht8q5eout6e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2Nesfb3a96v4w5GtymfDJ4CrLIbtDAKs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "417146337888-vj1f8rlh7au0hj73a8gumht8q5eout6e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
